@@ -1,3 +1,3 @@
 a = 'asd'
-b = 'qwe'
-print(a + b)
+c = 'qwe'
+print(a + c)
