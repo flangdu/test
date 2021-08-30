@@ -1,3 +1,3 @@
 a = 'asd'
-b = 'qwe'
+b = 'wie'
 print(a + b)
