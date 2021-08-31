@@ -13,6 +13,8 @@ git & github를 익히기 위해 만든 private 원격 저장소입니다. READM
 - issue 관리
 - 충돌을 발생시켜보고 원인 및 해결방법 경험
 - reset, revert 개념 이해 및 커밋 변경
+- pull request에서 충돌? 발생시키고 해결해보기
+- 본 저장소에 수정된 내용이 있을 때 Fork된 저장소에서 업데이트해보기
 
 ***
 
