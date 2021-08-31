@@ -33,3 +33,13 @@ git & github를 익히기 위해 만든 private 원격 저장소입니다. READM
 ```
 git clone <깃허브 원격저장소 주소 + ".git">
 ```
+
+# Pull Request 충돌 테스트
+
+깃허브에서는 conflict 감지 후 merge할 수 있음.
+
+
+앞으로 해결해봐야 할 내용
+- vscode에서 PR merge하는 방법 찾아보기
+- vscode에서 conflict 해결하는 방법 찾아보기
+- fork된 저장소에서 본 저장소가 merge되어 업데이트 되었을 때 업데이트 내려받는 방법 찾아보기
