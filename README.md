@@ -55,6 +55,12 @@ git config --global user.email "<깃허브 사용자 이메일>"
 - **add**: 어떤 파일을 commit할지 선택. commit할 준비를 하는 상태(staging area)로 선택한 파일을 올림
 - **commit**: 커밋이라고 함. 다시 되돌아가거나 분기하는 지점을 지정하는 것. 전초기지를 만드는 느낌!
 
+## checkout, reset, revert
+
+- **checkout**: 마스터는 고정으로 하고 head를 변경. 마스터는 우리가 작업했던 공간에 남아있기 때문에 삭제되지 않고 head가 이동되어 모든 기록이 남아있음!
+- **reset**: 마스터와 head모두 커서를 이동. 커서 뒤로 작업한 내용은 더이상 branch가 가르키지 않기 때문에 삭제됨 
+- **revert**: revert가 지정하기 전 영역으로 되돌아가서 새로운 브랜치로 만듦
+
 # 실전
 
 ## 충돌 테스트
