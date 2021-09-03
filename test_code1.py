@@ -7,5 +7,3 @@ print(a + b)
 c = 'qwe'
 print(a + c)
 c = 'asd'
-
-print(c)
